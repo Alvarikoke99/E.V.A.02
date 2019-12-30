@@ -12,30 +12,10 @@ Sus siglas hacen referencia a: **Evaluación de Vegetación Automática**
 
 ### Funciones de E.V.A.
 
-```markdown
-Syntax highlighted code block
+![Planta](./resources/planta_happy.png)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alvarikoke99/ProyectoEVA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* La frecuencia de regado se controla en función de la situación actual de la planta 
+* Hemos desarrollado una app de control con 2 modos diferentes
+    * Modo básico con una mascota virtual
+    * Modo avanzado con la posibilidad de modificar parámetros de control
+* La app también sirve para monitorizar las lecturas de los diversos sensores
