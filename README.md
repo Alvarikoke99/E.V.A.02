@@ -5,14 +5,15 @@ Somos una startup comprometida con aportar algo nuevo a la saturada industria de
 ### ¿Qué es E.V.A.?
 
 <img src="./resources/logo.png" title="Logo" 
-    width="150" height="150" />
+    width="348" height="250" />
 
 * E.V.A. es un producto comercial cuyo objetivo es la automatización del cuidado de las plantas. 
 * Sus siglas hacen referencia a: **Evaluación de Vegetación Automática**
 
 ### Funciones de E.V.A.
 
-![Planta](./resources/planta_happy.png)
+<img src="./resources/planta_happy.png" title="Logo" 
+    width="256" height="256" />
 
 * La frecuencia de regado se controla en función de la situación actual de la planta 
 * Hemos desarrollado una app de control con 2 modos diferentes
