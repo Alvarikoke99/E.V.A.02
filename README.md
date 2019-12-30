@@ -1,10 +1,12 @@
 ## ¿Quiénes somos?
 
-Somos una startup comprometida con aportar algo nuevo al cuidado de las plantas
+Somos una startup comprometida con aportar algo nuevo a la industria del cuidado de plantas
 
-### Markdown
+### ¿Qué es E.V.A.?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+E.V.A. es un producto comercial cuyo objetivo es la automatización del cuidado de las plantas. 
+Sus siglas hacen referencia a: 
+Evaluación de Vegetación Automática
 
 ```markdown
 Syntax highlighted code block
