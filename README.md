@@ -4,7 +4,7 @@ Somos una startup comprometida con aportar algo nuevo a la saturada industria de
 
 ### ¿Qué es E.V.A.?
 
-![Logo](./resources/logo.png =100x100)
+![Logo](./resources/logo.png)
 
 E.V.A. es un producto comercial cuyo objetivo es la automatización del cuidado de las plantas. 
 
