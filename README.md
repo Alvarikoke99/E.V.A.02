@@ -4,11 +4,11 @@ Somos una startup comprometida con aportar algo nuevo a la saturada industria de
 
 ### ¿Qué es E.V.A.?
 
-![Logo](./resources/logo.png)
+<img src="./resources/logo.png" title="Logo" 
+    width="150" height="150" />
 
-E.V.A. es un producto comercial cuyo objetivo es la automatización del cuidado de las plantas. 
-
-Sus siglas hacen referencia a: **Evaluación de Vegetación Automática**
+* E.V.A. es un producto comercial cuyo objetivo es la automatización del cuidado de las plantas. 
+* Sus siglas hacen referencia a: **Evaluación de Vegetación Automática**
 
 ### Funciones de E.V.A.
 
